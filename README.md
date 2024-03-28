@@ -1,2 +1,2 @@
-# CPA-calculator
+# CGPA-Calculator C++
 C-GPA calculator using C++
